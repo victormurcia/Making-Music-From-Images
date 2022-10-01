@@ -22,3 +22,7 @@ Finally, the midiUtils can be used to generate MIDI files from the MIDI numbers.
 A few example song outputs and the associated images are included here.
 
 Have fun!
+
+Check out the App hosted at Streamlit! 
+
+https://victormurcia-making-music-from-images-music-to-images-ce4ydi.streamlitapp.com/
