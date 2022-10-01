@@ -1,0 +1,6 @@
+python3.7-venv
+freeglut3-dev
+libgtk2.0-dev
+libasound2-dev
+libsndfile1-dev
+ffmpeg
