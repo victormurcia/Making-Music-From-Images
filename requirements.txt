@@ -6,3 +6,4 @@ pedalboard==0.9.17
 Pillow==11.2.1 
 scipy==1.15.3 
 streamlit==1.45.1
+altair==4.0
